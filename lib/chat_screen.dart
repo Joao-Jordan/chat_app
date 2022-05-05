@@ -111,7 +111,7 @@ class _ChatScreenState extends State<ChatScreen> {
     return Scaffold(
       key: _scaffoldMessengerKey,
       appBar: AppBar(
-        title: const Text('Telezap'),
+        title: const Text('Chat - App'),
         elevation: 0,
         actions: [
           _currentUser != null
