@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092016258052",
+    "project_id": "chatapp-jordan",
+    "storage_bucket": "chatapp-jordan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092016258052:android:c6458eb7cae6d4de3cc951",
+        "android_client_info": {
+          "package_name": "com.joaojordan.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092016258052-lspvgb85v2c67mdu0lu1dpuicq4dnad4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joaojordan.chatapp",
+            "certificate_hash": "fc19c9ee20d8cb7eec3b6c6113b698f90601f556"
+          }
+        },
+        {
+          "client_id": "1092016258052-h51jmrehjckancm0e4i186k6jsfou7id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfIWsmX2cbng3CGrTGjUdpvvfZmkYAAxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092016258052-h51jmrehjckancm0e4i186k6jsfou7id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
